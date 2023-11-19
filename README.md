@@ -1,5 +1,4 @@
 # Log-Ingestor
-Make sure you have Python and Flask installed. If not, you can install Flask using  pip install flask
 
 
 from flask import Flask, request, jsonify
